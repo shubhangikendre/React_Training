@@ -1,0 +1,30 @@
+{
+  "name": "day_3",
+  "version": "1.0.0",
+  "description": "Day 3 demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "https://github.com/shubhangikendre/React_Training.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhangikendre/React_Training.git"
+  },
+  "keywords": [
+    "shubhangi"
+  ],
+  "author": "shubhangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhangikendre/React_Training/issues"
+  },
+  "homepage": "https://github.com/shubhangikendre/React_Training#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
